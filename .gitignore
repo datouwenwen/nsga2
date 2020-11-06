@@ -23,3 +23,5 @@ nsga2r
 # Sublime-text
 *.sublime-workspace
 *.sublime-project
+
+*.vs

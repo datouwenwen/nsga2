@@ -21,6 +21,7 @@ void merge(NSGA2Type *nsga2Params,  population *pop1, population *pop2, populati
     }
     return;
 }
+//change here
 
 /* Routine to copy an individual 'ind1' into another individual 'ind2' */
 void copy_ind (NSGA2Type *nsga2Params, individual *ind1, individual *ind2)
